@@ -1,0 +1,10 @@
+torch
+numpy
+pretty_midi
+music21
+soundfile
+matplotlib
+moviepy
+pdf2image
+opencv-python-headless
+pillow
