@@ -1,10 +1,22 @@
-torch
-numpy
-pretty_midi
-music21
-soundfile
-matplotlib
-moviepy
-pdf2image
-opencv-python-headless
-pillow
+# Core Python version
+python>=3.9
+
+# Numerical and ML stack
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+numpy>=1.23.0
+
+# Music & audio
+pretty_midi>=0.2.10
+music21>=9.0.0
+soundfile>=0.12.1
+
+# Visualization & plotting
+matplotlib>=3.7.0
+
+# Image, video, and PDF handling
+Pillow>=9.0.0
+opencv-python>=4.7.0
+moviepy>=1.0.3
+pdf2image>=1.16.0
